@@ -4,7 +4,6 @@ Currently I'm working at Valuenaire.ai as Full-Stack Developer collaborating wit
 a fin-tech product that will help solving problems related with investors, enterpreneurs and advisory.
 
 - 📫 How to reach me abhinavdeshmukh2101@gmail.com
-- My work profile https://github.com/abhinav-valuenaire
 
 <!---
 - 💞️ I’m looking to collaborate on ...
